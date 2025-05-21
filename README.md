@@ -1,9 +1,5 @@
 # Hello, I'm Kennith Volcy!
 
-<div align="center">
-  <img src="https://your-banner-image-url.png" alt="Banner" width="100%">
-</div>
-
 <!-- Profile Introduction -->
 👨‍💻 I'm a Computer Science major exploring Web Development, IT Support, and Data Analytics.  
 Currently building my programming and technical support skills while pursuing certifications and hands-on experience.  
