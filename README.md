@@ -7,7 +7,7 @@
 <!-- Profile Introduction -->
 👨‍💻 I'm a Computer Science major exploring Web Development, IT Support, and Data Analytics.  
 Currently building my programming and technical support skills while pursuing certifications and hands-on experience.  
-Dedicated to career growth, innovation, and mastering technology to eventually secure high-paying IT opportunities 💸
+Dedicated to career growth, innovation, and mastering technology to eventually secure high-paying IT opportunities.
 
 ## About Me
 
@@ -64,15 +64,6 @@ Dedicated to career growth, innovation, and mastering technology to eventually s
 
 ## Support Me 🔥
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/KPVolcy">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://your-footer-image-url.png" alt="Footer Image" width="100%">
-</div>
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -80,7 +71,3 @@ Dedicated to career growth, innovation, and mastering technology to eventually s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPVolcy&layout=compact&theme=tokyonight" />
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=KPVolcy&theme=react-dark" alt="Activity Graph" width="100%">
-</div>
