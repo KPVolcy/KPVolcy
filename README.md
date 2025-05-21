@@ -1,4 +1,4 @@
-# Namaste 🙏 I'm Kennith Volcy
+# Hello, I'm Kennith Volcy!
 
 <div align="center">
   <img src="https://your-banner-image-url.png" alt="Banner" width="100%">
